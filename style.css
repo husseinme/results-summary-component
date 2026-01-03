@@ -38,7 +38,8 @@ main{
     background-color: var(--White);
     border-radius: 25px;
     max-width: 750px;
-}
+    box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.1);
+    }
 
 
 .result-section{
@@ -151,6 +152,7 @@ img{
         padding: 0;
         border-radius: 0px;
         height: 100vh;
+        box-shadow: none;
     }
 
     .result-section, .summary-section{
