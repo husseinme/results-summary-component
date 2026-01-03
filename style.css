@@ -157,6 +157,17 @@ img{
         border-radius: 0px;
     }
 
+        .summary-section{
+        margin-top: 15px;
+        justify-content: start;
+    }
+
+
+        .result-section{
+        border-radius: 0px 0px 25px 25px;
+        flex: 0.5;
+    }
+
     body{
         padding: 0;
         background-color: var(--White);
