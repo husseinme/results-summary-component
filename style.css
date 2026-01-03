@@ -149,8 +149,15 @@ img{
         flex-direction: column;
         margin: 0;
         padding: 0;
+        border-radius: 0px;
     }
+
+    .result-section, .summary-section{
+        border-radius: 0px;
+    }
+
     body{
         padding: 0;
     }
+
 }
